@@ -1,3 +1,3 @@
 for i in range(10):
-	i**2
+	i**1
 break i=9
